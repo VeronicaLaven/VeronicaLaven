@@ -9,10 +9,14 @@
 #### R, dplyr, ggplot
 * [BellaBeat Fitness Exploratory Data Analysis (EDA) - Capstone Project - Google Data Analytics Professional Certificate by Coursera](https://www.kaggle.com/code/veronicalaven/capstone-project-2021-bellabeat-case-study)
 
+#### SQL
+* [Project Description](https:// link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+#### Tableau
+* [Project Description](https:// link)
 
+#### PowerBi
+* [Project Description](https:// link)
 
 <!--
 **VeronicaLaven/VeronicaLaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
