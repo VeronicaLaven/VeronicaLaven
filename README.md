@@ -1,11 +1,12 @@
-### Hi there, I'm Veronica 👋
+## Hi there, I'm Veronica 👋
 
 ### Data Analyst Projects:
 
 #### Python, Pandas, Matplotlib
 * Seattle Police Department Crime Exploratory Data Analysis (EDA)
+* Texas Banned Books Exploratory Data Analysis (EDA)
 
-#### R, ggplot
+#### R, dplyr, ggplot
 * BellaBeat Fitness Exploratory Data Analysis (EDA) for Google Data Analytics Professional Certificate
 
 
