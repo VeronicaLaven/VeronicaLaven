@@ -3,7 +3,7 @@
 ### Data Analyst Projects:
 
 #### Python, Pandas, Matplotlib
-* Seattle Police Department Crime Exploratory Data Analysis (EDA)
+* [Seattle Police Department Crime Exploratory Data Analysis (EDA)](https://www.kaggle.com/code/veronicalaven/capstone-project-2021-bellabeat-case-study)
 * Texas Banned Books Exploratory Data Analysis (EDA)
 
 #### R, dplyr, ggplot
