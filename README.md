@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Veronica 👋
+
+### Data Analyst Projects:
+
+#### Python, Pandas, Matplotlib
+* Seattle Police Department Crime Exploratory Data Analysis (EDA)
+
+#### R, ggplot
+* BellaBeat Fitness Exploratory Data Analysis (EDA) for Google Data Analytics Professional Certificate
+
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+
 
 <!--
 **VeronicaLaven/VeronicaLaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
