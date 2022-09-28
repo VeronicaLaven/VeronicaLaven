@@ -7,7 +7,7 @@
 * Texas Banned Books Exploratory Data Analysis (EDA)
 
 #### R, dplyr, ggplot
-* BellaBeat Fitness Exploratory Data Analysis (EDA) - Capstone Project - Google Data Analytics Professional Certificate by Coursera
+* [BellaBeat Fitness Exploratory Data Analysis (EDA) - Capstone Project - Google Data Analytics Professional Certificate by Coursera](https://www.kaggle.com/code/veronicalaven/capstone-project-2021-bellabeat-case-study)
 
 
 - 🔭 I’m currently working on ...
