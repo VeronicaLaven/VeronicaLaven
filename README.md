@@ -3,11 +3,8 @@
 ### Tools:
 ####
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+![logo2](https://bit.ly/35SwfhYy | width=200)
 
-![](https://bit.ly/35SwfhYy | width=200)
-
-[<img src="https://bit.ly/35SwfhYy" width="200" height="200"/>](https://bit.ly/35SwfhYy)
 
 ![R](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png)
 ![Python](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)
