@@ -1,8 +1,7 @@
 ## Hi there, I'm Veronica 👋
 
 ### Tools:
-####
-api/top-langs?username=veronicalaven
+#### api/top-langs?username=veronicalaven
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veronicalaven)](https://github.com/veronicalaven/github-readme-stats)
 
 ![logo2](https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png | width=200)
