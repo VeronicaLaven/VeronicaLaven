@@ -1,6 +1,10 @@
 ## Hi there, I'm Veronica 👋
 
 ### Tools:
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png.type" width="100" height="100">
+
+
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png&auto=format&fit=crop&w=1074&q=80"/>
 <img src="https://bit.ly/3SwfhYy&auto=format&fit=crop&w=40&q=80"/>
 <img src="https://images.unsplash.com/photo-1511914265872-c40672604a80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=40&q=80"/>
