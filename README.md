@@ -3,7 +3,9 @@
 ### Tools:
 ####
 
-[<img src="image.png" width="250"/>](image.png)
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+
+![](https://bit.ly/35SwfhYy | width=200)
 
 [<img src="https://bit.ly/35SwfhYy" width="200" height="200"/>](https://bit.ly/35SwfhYy)
 
