@@ -2,6 +2,8 @@
 
 ### Languages and Packages:
 <p float="left">
+  <img src="https://logowiki.net/uploads/logo/s/selenium-logo.svg" width="30" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" width="30" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" width="30" />
   <img src="https://ggplot2.tidyverse.org/logo.png" width="30" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="30" /> 
