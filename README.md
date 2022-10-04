@@ -43,10 +43,17 @@
 * BS Electrical Engineering
 
 #### Certifications
-* Coursera Google Data Analytics - 2021
-* Udemy
-* Udemy
-* Udemy
+•       Udemy Git & GitHub Bootcamp – In Progress
+
+•       Udemy The Complete SQL Bootcamp 2022: Go from Zero to Hero – 2022
+
+•       Udemy R Programming A-Z™: R for Data Science with Real Exercises - 2022
+
+•       Udemy 2022 Complete Python Bootcamp: From Zero to Hero in Python - 2022
+
+•       Google Data Analytics Professional Certificate – 2021
+
+•       Udemy Data Analysis using Excel - 2021
 
 
 
