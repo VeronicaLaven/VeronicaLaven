@@ -26,7 +26,7 @@
 ### Data Analyst Projects:
 
 #### Python, Pandas, Matplotlib
-* [Seattle Police Department Crime Exploratory Data Analysis (EDA)](VeronicaLaven/Seattle_PD_Crime_EDA)
+* [Seattle Police Department Crime Exploratory Data Analysis (EDA)](VeronicaLaven/VeronicaLaven/Seattle_PD_Crime_EDA)
 
 #### R, dplyr, ggplot
 * [BellaBeat Fitness Exploratory Data Analysis (EDA) - Capstone Project - Google Data Analytics Professional Certificate by Coursera](https://www.kaggle.com/code/veronicalaven/capstone-project-2021-bellabeat-case-study)
