@@ -9,8 +9,8 @@
 <img align="left" src="https://ggplot2.tidyverse.org/logo.png" width="30">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="30">
 <img align=“left” src="https://logowiki.net/uploads/logo/s/selenium-logo.svg" width="30">
-<img align=“left” src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" width="30">
-<img src="https://dwglogo.com/wp-content/uploads/2016/07/1300px_Tableau_Software_logo-1068x734.png" width="30">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" width="30">
+<img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" width="30">
 
 ### Tools:
 <img align=“left” src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">
