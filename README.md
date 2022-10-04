@@ -1,7 +1,6 @@
 ## Hi there, I'm Veronica 👋
 
 ### Languages and Packages:
-
 <img align="left" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="30">
 <img align="left" src="https://bit.ly/3SwfhYy" width="25">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30">
@@ -9,9 +8,8 @@
 <img align=“left” src="https://logowiki.net/uploads/logo/s/selenium-logo.svg" width="30">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" width="30">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" width="30">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="30">
 <img align="left" src="https://ggplot2.tidyverse.org/logo.png" width="30">
-
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="30">
 <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" width="30">
 
 ### Tools:
