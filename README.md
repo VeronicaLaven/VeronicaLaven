@@ -19,8 +19,6 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png" width="30">
 <img align=“left” src="https://anaconda.org/static/img/anaconda-symbol.svg" width="30">
 
-
-
 ### Data Analyst Projects:
 
 #### Python, Pandas, Matplotlib
@@ -28,15 +26,6 @@
 
 #### R, dplyr, ggplot
 * [BellaBeat Fitness Exploratory Data Analysis (EDA) - Capstone Project - Google Data Analytics Professional Certificate by Coursera](https://www.kaggle.com/code/veronicalaven/capstone-project-2021-bellabeat-case-study)
-
-#### SQL
-* [Project Description](https:// link)
-
-#### Tableau
-* [Project Description](https:// link)
-
-#### PowerBi
-* [Project Description](https:// link)
 
 ### Education:
 * BS Electrical Engineering
