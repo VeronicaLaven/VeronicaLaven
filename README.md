@@ -13,10 +13,12 @@
 <img src="https://dwglogo.com/wp-content/uploads/2016/07/1300px_Tableau_Software_logo-1068x734.png" width="30">
 
 ### Tools:
-<img align=“left” src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30"><img align="left" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" width="30">
+<img align=“left” src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">
+<img align=“left” src="https://code.visualstudio.com/assets/images/code-stable.png" width="30">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" width="30">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png" width="30">
 <img align=“left” src="https://anaconda.org/static/img/anaconda-symbol.svg" width="30">
-<img align=“left” src="https://code.visualstudio.com/assets/images/code-stable.png" width="30">
+
 
 
 ### Data Analyst Projects:
