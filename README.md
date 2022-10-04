@@ -3,7 +3,7 @@
 ### Languages and Packages:
 <p float="left">
   <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="30" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python" width="30" />
+  <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30">
   <img src="https://bit.ly/3SwfhYy" width="30" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="30" />
   <img src="https://logowiki.net/uploads/logo/s/selenium-logo.svg" width="30" />
