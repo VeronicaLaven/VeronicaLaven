@@ -43,7 +43,7 @@
 
 •       Udemy 2022 Complete Python Bootcamp: From Zero to Hero in Python - 2022
 
-•       Google Data Analytics Professional Certificate – 2021
+•       Google Data Analytics Professional Certificate - Coursera – 2021
 
 •       Udemy Data Analysis using Excel - 2021
 
