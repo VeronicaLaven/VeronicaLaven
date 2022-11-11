@@ -31,6 +31,10 @@
 #### R, dplyr, ggplot
 * [BellaBeat Fitness Exploratory Data Analysis (EDA) - Capstone Project - Google Data Analytics Professional Certificate by Coursera](https://www.kaggle.com/code/veronicalaven/capstone-project-2021-bellabeat-case-study)
 
+### Python Projects
+* [Python Weather App using TKinter GUI and Open Weather Map API](https://github.com/VeronicaLaven/weather_tk_gui_app)
+
+
 ### Education:
 * BS Electrical Engineering
 
