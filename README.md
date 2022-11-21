@@ -38,18 +38,18 @@
 ### Education:
 * BS Electrical Engineering
 
-#### Certifications
-*  Udemy Git & GitHub Bootcamp – In Progress
+  #### Certifications
+  *  Udemy Git & GitHub Bootcamp – In Progress
 
-*  Udemy The Complete SQL Bootcamp 2022: Go from Zero to Hero – 2022
+  *  Udemy The Complete SQL Bootcamp 2022: Go from Zero to Hero – 2022
 
-*  Udemy R Programming A-Z™: R for Data Science with Real Exercises - 2022
+  *  Udemy R Programming A-Z™: R for Data Science with Real Exercises - 2022
 
-*  Udemy 2022 Complete Python Bootcamp: From Zero to Hero in Python - 2022
+  *  Udemy 2022 Complete Python Bootcamp: From Zero to Hero in Python - 2022
 
-*  Google Data Analytics Professional Certificate - Coursera – 2021
+  *  Google Data Analytics Professional Certificate - Coursera – 2021
 
-*  Udemy Data Analysis using Excel - 2021
+  *  Udemy Data Analysis using Excel - 2021
 
 
 
