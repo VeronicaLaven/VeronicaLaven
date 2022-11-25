@@ -23,7 +23,7 @@
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" /> 
 </p>
 
-### Data Analyst Projects:
+###  📈 Data Analyst Projects:
 
 #### Python, Pandas, Matplotlib
 * [Seattle Police Department Crime Exploratory Data Analysis (EDA)](https://www.kaggle.com/code/veronicalaven/seattle-pd-crime-eda)
