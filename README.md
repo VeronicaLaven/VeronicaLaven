@@ -52,7 +52,15 @@
   *  Udemy Data Analysis using Excel - 2021
 
 
+#
 
+### 📊 Stats
+
+![Veronica's GitHub stats](https://github-readme-stats.vercel.app/api?username=veronicalaven&show_icons=true&theme=bear)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=VeronicaLaven&theme=bear&border_radius=4.5) -->
+
+#
 
 
 <!--
