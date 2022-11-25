@@ -35,7 +35,7 @@
 * [Python Weather App using TKinter GUI and Open Weather Map API](https://github.com/VeronicaLaven/weather_tk_gui_app)
 
 
-### 👩🏻‍🎓 Education:
+### 🏻‍🎓 Education:
 * BS Electrical Engineering
 
   #### Certifications
