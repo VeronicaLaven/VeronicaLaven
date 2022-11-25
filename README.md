@@ -1,4 +1,4 @@
-## Hi there, I'm Veronica 👋
+## Hi there, I'm Veronica 👩🏻‍💻
 
 ### Languages and Packages:
 <p float="left">
