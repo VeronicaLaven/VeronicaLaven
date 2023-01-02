@@ -41,7 +41,7 @@
   #### Certifications
   *  Udemy Git & GitHub Bootcamp – In Progress
 
-  *  Udemy The Complete SQL Bootcamp 2022: Go from Zero to Hero – 2022
+  *  Udemy The Complete SQL Bootcamp: Go from Zero to Hero – 2023
 
   *  Udemy R Programming A-Z™: R for Data Science with Real Exercises - 2022
 
