@@ -1,4 +1,4 @@
-## <span style="color: #f205a7;">Hi there, I'm Veronica</span> 👩🏻‍💻
+## <p style="color:blue">Hi there, I'm Veronica 👩🏻‍💻</p>
     
 ### Languages and Packages:
 <p float="left">
@@ -23,25 +23,27 @@
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" /> 
 </p>
 
-###  📈 Data Analyst Projects:
+###  📈 Exploratory Data Analysis (EDA) Projects:
 
-#### Python, Pandas, Matplotlib
-* [Seattle Police Department Crime Exploratory Data Analysis (EDA)](https://www.kaggle.com/code/veronicalaven/seattle-pd-crime-eda)
+   #### Python, Pandas, Matplotlib
+    * [Seattle Police Department Crime Exploratory Data Analysis (EDA)](https://www.kaggle.com/code/veronicalaven/seattle-pd-crime-eda)
 
-#### Python, BeautifulSoup, Pandas, Matplotlib
-* [Webscraping IMDb 1000 Greatest Movies and Exploratory Data Analysis (EDA)]
-
-### R, dplyr, ggplot
-* [BellaBeat Fitness Exploratory Data Analysis (EDA) - Capstone Project - Google Data Analytics Professional Certificate by Coursera](https://www.kaggle.com/code/veronicalaven/capstone-project-2021-bellabeat-case-study)
+   #### R, dplyr, ggplot
+    * [BellaBeat Fitness Exploratory Data Analysis (EDA) - Capstone Project - Google Data Analytics Professional Certificate by Coursera](https://www.kaggle.com/code/veronicalaven/capstone-project-2021-bellabeat-case-study)
 
 ### 💻 API Projects:
-* [Python Weather App using TKinter GUI and Open Weather Map API](https://github.com/VeronicaLaven/weather_tk_gui_app)
 
+   #### Python, TKinter
+   * [Python Weather App using TKinter GUI and Open Weather Map API](https://github.com/VeronicaLaven/weather_tk_gui_app)
 
+### 🌎 Webscraping Projects:
+   #### Python, BeautifulSoup, Pandas, Matplotlib
+    * [Webscraping IMDb 1000 Greatest Movies and Exploratory Data Analysis (EDA)]
+    
 ### 🎓 Education:
 * BS Electrical Engineering
 
-  #### Certifications
+  #### 📜 Certifications
   *  Udemy Git & GitHub Bootcamp – In Progress
 
   *  Udemy The Complete SQL Bootcamp: Go from Zero to Hero – 2023
