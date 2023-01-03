@@ -1,5 +1,7 @@
 ## Hi there, I'm Veronica 👩🏻‍💻
-    
+
+<hr style="border: 1px solid gray">
+
 ### Languages and Packages:
 <p float="left">
   <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="40" />
@@ -22,6 +24,8 @@
   <img src="https://anaconda.org/static/img/anaconda-symbol.svg" width="30" />
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" /> 
 </p>
+
+<hr style="border: 1px solid gray">
 
 ###  📈 Exploratory Data Analysis (EDA) Projects:
 
@@ -56,6 +60,7 @@
 
   *  Udemy Data Analysis using Excel - 2021
 
+<hr style="border: 1px solid gray">
 
 #
 
@@ -67,6 +72,7 @@
 
 #
 
+<hr style="border: 1px solid gray">
 
 <!--
 **VeronicaLaven/VeronicaLaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
