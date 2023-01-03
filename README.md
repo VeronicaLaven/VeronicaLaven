@@ -1,4 +1,4 @@
-## <p style="color:blue">Hi there, I'm Veronica 👩🏻‍💻</p>
+## Hi there, I'm Veronica 👩🏻‍💻
     
 ### Languages and Packages:
 <p float="left">
@@ -26,10 +26,10 @@
 ###  📈 Exploratory Data Analysis (EDA) Projects:
 
    #### Python, Pandas, Matplotlib
-    * [Seattle Police Department Crime Exploratory Data Analysis (EDA)](https://www.kaggle.com/code/veronicalaven/seattle-pd-crime-eda)
+   * [Seattle Police Department Crime Exploratory Data Analysis (EDA)](https://www.kaggle.com/code/veronicalaven/seattle-pd-crime-eda)
 
    #### R, dplyr, ggplot
-    * [BellaBeat Fitness Exploratory Data Analysis (EDA) - Capstone Project - Google Data Analytics Professional Certificate by Coursera](https://www.kaggle.com/code/veronicalaven/capstone-project-2021-bellabeat-case-study)
+   * [BellaBeat Fitness Exploratory Data Analysis (EDA) - Capstone Project - Google Data Analytics Professional Certificate by Coursera](https://www.kaggle.com/code/veronicalaven/capstone-project-2021-bellabeat-case-study)
 
 ### 💻 API Projects:
 
@@ -38,7 +38,7 @@
 
 ### 🌎 Webscraping Projects:
    #### Python, BeautifulSoup, Pandas, Matplotlib
-    * [Webscraping IMDb 1000 Greatest Movies and Exploratory Data Analysis (EDA)]
+   * [Webscraping IMDb 1000 Greatest Movies and Exploratory Data Analysis (EDA)]
     
 ### 🎓 Education:
 * BS Electrical Engineering
