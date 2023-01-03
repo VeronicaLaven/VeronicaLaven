@@ -28,7 +28,10 @@
 #### Python, Pandas, Matplotlib
 * [Seattle Police Department Crime Exploratory Data Analysis (EDA)](https://www.kaggle.com/code/veronicalaven/seattle-pd-crime-eda)
 
-#### R, dplyr, ggplot
+#### Webscraping with Python, BeautifulSoup
+* [Webscraping IMDb 1000 Greatest Movies and Exploratory Data Analysis (EDA)]
+
+### R, dplyr, ggplot
 * [BellaBeat Fitness Exploratory Data Analysis (EDA) - Capstone Project - Google Data Analytics Professional Certificate by Coursera](https://www.kaggle.com/code/veronicalaven/capstone-project-2021-bellabeat-case-study)
 
 ### 💻 API Projects:
