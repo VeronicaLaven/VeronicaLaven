@@ -42,7 +42,7 @@
 
 ### 🌎 Webscraping Projects:
    #### Python, BeautifulSoup, Pandas, Matplotlib
-   * [Webscraping IMDb 1000 Greatest Movies and Exploratory Data Analysis (EDA)]
+   * [Webscraping IMDb 1000 Greatest Movies and Exploratory Data Analysis (EDA)](https://github.com/VeronicaLaven/IMDb_webscrape_plus_EDA_python.git)
     
 ### 🎓 Education:
 * BS Electrical Engineering
