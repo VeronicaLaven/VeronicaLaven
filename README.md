@@ -44,6 +44,8 @@
 ### 🌎 Webscraping Projects:
    #### Python, BeautifulSoup, Pandas, Matplotlib
    * [Webscraping IMDb 1000 Greatest Movies and Exploratory Data Analysis (EDA)](https://github.com/VeronicaLaven/IMDb_webscrape_plus_EDA_python.git)
+   #### Python, Selenium, TKinter
+   * [Webscraping Online Radio Station Media Players to Build Custom Media Player App](https://github.com/VeronicaLaven/custom_music_player.git)
     
 ### 🎓 Education:
 * BS Electrical Engineering
