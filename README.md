@@ -50,7 +50,14 @@
 ### 🎓 Education:
 * BS Electrical Engineering
 
-  #### 📜 Certifications
+  #### 📜 Professional Certifications
+  
+  *  Andrew Ng Machine Learning Specialization offered by DeepLearning.AI and Stanford University - Coursera – in progress
+
+  *  Google Data Analytics Professional Certificate - Coursera – 2021
+  
+  #### 📜 Udemy Course Certificates
+  
   *  Udemy Git & GitHub Bootcamp – In Progress
 
   *  Udemy The Complete SQL Bootcamp: Go from Zero to Hero – 2023
@@ -58,9 +65,7 @@
   *  Udemy R Programming A-Z™: R for Data Science with Real Exercises - 2022
 
   *  Udemy 2022 Complete Python Bootcamp: From Zero to Hero in Python - 2022
-
-  *  Google Data Analytics Professional Certificate - Coursera – 2021
-
+  
   *  Udemy Data Analysis using Excel - 2021
 
 <hr style="border: 1px solid gray">
