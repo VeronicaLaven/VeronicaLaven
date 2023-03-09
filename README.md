@@ -38,8 +38,11 @@
 
 ### 💻 API Projects:
 
-   #### Python, TKinter
+   #### Python, TKinter, OpenWeatherMap API
    * [Python Weather App using TKinter GUI and Open Weather Map API](https://github.com/VeronicaLaven/weather_tk_gui_app)
+
+   #### Python, TKinter, OpenAI API
+   * [Python OpenAI ChatGPT3.5 ChatBot using TKinter GUI and GPT-3.5 model engine]( link here )
 
 ### 🌎 Webscraping Projects:
    #### Python, BeautifulSoup, Pandas, Matplotlib
