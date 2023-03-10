@@ -39,7 +39,7 @@
 ### 💻 API Projects:
 
    #### Python, TKinter, OpenWeatherMap API
-   * [Python Weather App using TKinter GUI and Open Weather Map API](https://github.com/VeronicaLaven/weather_tk_gui_app)
+   * [Python Weather App using TKinter GUI and Open Weather Map API](https://github.com/VeronicaLaven/weather_tk_gui_app.git)
 
    #### Python, TKinter, OpenAI API
    * [Python OpenAI ChatGPT3.5 ChatBot using TKinter GUI and GPT-3.5 model engine](https://github.com/VeronicaLaven/python_chatgpt3_tkinter_gui.git)
