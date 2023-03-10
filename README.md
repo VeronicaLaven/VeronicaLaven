@@ -42,11 +42,12 @@
    * [Python Weather App using TKinter GUI and Open Weather Map API](https://github.com/VeronicaLaven/weather_tk_gui_app)
 
    #### Python, TKinter, OpenAI API
-   * [Python OpenAI ChatGPT3.5 ChatBot using TKinter GUI and GPT-3.5 model engine]( link here )
+   * [Python OpenAI ChatGPT3.5 ChatBot using TKinter GUI and GPT-3.5 model engine](https://github.com/VeronicaLaven/python_chatgpt3_tkinter_gui.git)
 
 ### 🌎 Webscraping Projects:
    #### Python, BeautifulSoup, Pandas, Matplotlib
    * [Webscraping IMDb 1000 Greatest Movies and Exploratory Data Analysis (EDA)](https://github.com/VeronicaLaven/IMDb_webscrape_plus_EDA_python.git)
+   
    #### Python, Selenium, TKinter
    * [Webscraping Online Radio Station Media Players to Build Custom Media Player App](https://github.com/VeronicaLaven/custom_music_player.git)
     
