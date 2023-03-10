@@ -59,7 +59,7 @@
 
   *  Google Data Analytics Professional Certificate - Coursera – 2021
   
-  #### 📜 Udemy Course Certificates
+  #### 📜 Udemy Course Certifications
   
   *  Udemy Git & GitHub Bootcamp – In Progress
 
