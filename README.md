@@ -72,7 +72,7 @@
   
   *  Udemy Data Analysis using Excel - 2021
 
-<hr style="border: 1px solid gray">
+
 
 ### :dart: Productivity Projects:
 
@@ -80,7 +80,7 @@
    * [Python Timer using TKinter GUI](https://github.com/VeronicaLaven/python_timer.git)
 
 
-
+<hr style="border: 1px solid gray">
 
 
 #
