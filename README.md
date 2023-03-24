@@ -74,6 +74,15 @@
 
 <hr style="border: 1px solid gray">
 
+### 💻 Productivity Projects:
+
+   #### Python, TKinter, Pomodoro Techinque Timer
+   * [Python Timer using TKinter GUI](https://github.com/VeronicaLaven/python_timer.git)
+
+
+
+
+
 #
 
 ### 📊 Stats
