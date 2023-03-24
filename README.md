@@ -77,7 +77,7 @@
 ### 💻 Productivity Projects:
 
    #### Python, TKinter, Pomodoro Techinque Timer
-   * [Python Timer using TKinter GUI](https://github.com/VeronicaLaven/python_timer.git)
+   * [Python Timer using TKinter GUI]([https://github.com/VeronicaLaven/python_timer.git](https://github.com/VeronicaLaven/python_timer.git)
 
 
 
