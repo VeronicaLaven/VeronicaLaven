@@ -111,7 +111,7 @@
    * [Python Timer using TKinter GUI](https://github.com/VeronicaLaven/python_timer.git)
 
 
-### <img src= "https://download.logo.wine/logo/Raspberry_Pi/Raspberry_Pi-Logo.wine.png" width="50"/> Raspberry Pi Projects: 
+### <img src= "https://download.logo.wine/logo/Raspberry_Pi/Raspberry_Pi-Logo.wine.png" width="60"/> Raspberry Pi Projects: 
    #### Automate holiday decor props with Python and Raspberry Pi
 
 <hr style="border: 1px solid gray">
