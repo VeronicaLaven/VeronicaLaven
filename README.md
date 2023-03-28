@@ -18,6 +18,9 @@
   <img src= "https://img.shields.io/badge/-Seaborn-green" />
   <img src= "https://img.shields.io/badge/-Plotly-orange" />
   <img src= "https://img.shields.io/badge/-GGPlot2-brightgreen" />
+  <img src= "https://img.shields.io/badge/-Tableau-blue" />
+  <img src= "https://img.shields.io/badge/-Power%20BI-yellow" />
+  <img src= "https://img.shields.io/badge/-Power%20Query-green" />
   
   <!--
   <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="40" />
