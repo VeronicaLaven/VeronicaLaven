@@ -8,14 +8,14 @@
   <img src= "https://img.shields.io/badge/-Python-brightgreen" />
   <img src= "https://img.shields.io/badge/-R-yellow" />
   <img src= "https://img.shields.io/badge/-PostgreSQL-blue" />
-  <img src= "https://img.shields.io/badge/-MySQL-green" />
+  <img src= "https://img.shields.io/badge/-MySQL-purple" />
   <img src= "https://img.shields.io/badge/-SQLite-lightgrey" />
   <img src= "https://img.shields.io/badge/-Selenium-green" />
-  <img src= "https://img.shields.io/badge/-BeautifulSoup-yellow" />
+  <img src= "https://img.shields.io/badge/-BeautifulSoup-maroon" />
   <img src= "https://img.shields.io/badge/-Pandas-red" />
   <img src= "https://img.shields.io/badge/-NumPy-brightgreen" />
-  <img src= "https://img.shields.io/badge/-Matplotlib-blue" />
-  <img src= "https://img.shields.io/badge/-Seaborn-green" />
+  <img src= "https://img.shields.io/badge/-Matplotlib-magenta" />
+  <img src= "https://img.shields.io/badge/-Seaborn-teal" />
   <img src= "https://img.shields.io/badge/-Plotly-orange" />
   <img src= "https://img.shields.io/badge/-GGPlot2-brightgreen" />
   <img src= "https://img.shields.io/badge/-Tableau-blue" />
@@ -40,13 +40,13 @@
 
 ### Tools:
 <p float="left">
-  <img src= "https://img.shields.io/badge/CLI-UNIX-lightgrey" />
+  <img src= "https://img.shields.io/badge/CLI-UNIX-black" />
   <img src= "https://img.shields.io/badge/-Visual%20Studio%20Code-blue" />
-  <img src= "https://img.shields.io/badge/-Jupyter%20Notebook-lightgrey" />
+  <img src= "https://img.shields.io/badge/-Jupyter%20Notebook-blueviolet" />
   <img src= "https://img.shields.io/badge/-Anaconda-brightgreen" />
   <img src= "https://img.shields.io/badge/-RStudio-blue" />
   <img src= "https://img.shields.io/badge/-Git-red" />
-  <img src= "https://img.shields.io/badge/-GitHub-lightgrey" />
+  <img src= "https://img.shields.io/badge/-GitHub-black" />
   
   <!--
   
