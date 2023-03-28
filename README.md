@@ -10,7 +10,7 @@
   <img src= "https://img.shields.io/badge/-PostgreSQL-blue" />
   <img src= "https://img.shields.io/badge/-MySQL-purple" />
   <img src= "https://img.shields.io/badge/-SQLite-lightgrey" />
-  <img src= "https://img.shields.io/badge/-Selenium-green" />
+  <img src= "https://img.shields.io/badge/-Selenium-darkblue" />
   <img src= "https://img.shields.io/badge/-BeautifulSoup-maroon" />
   <img src= "https://img.shields.io/badge/-Pandas-red" />
   <img src= "https://img.shields.io/badge/-NumPy-brightgreen" />
