@@ -1,4 +1,4 @@
-## Hi there, I'm Veronica 👩🏻‍💻
+![](https://github.com/veronicalaven/banner_040323.jpeg)
 
 <hr style="border: 1px solid gray">
 
