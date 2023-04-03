@@ -1,4 +1,4 @@
-<img src = "https://github.com/VeronicaLaven/VeronicaLaven/blob/main/banner.jpeg" />
+<img src = "https://github.com/VeronicaLaven/VeronicaLaven/blob/main/github-header-image.png" />
 
 <hr style="border: 1px solid gray">
 
