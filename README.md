@@ -1,4 +1,4 @@
-![](https://github.com/veronicalaven/veronicalaven/banner_040323.jpeg)
+<img src = "https://github.com/VeronicaLaven/VeronicaLaven/blob/main/banner.jpeg" />
 
 <hr style="border: 1px solid gray">
 
