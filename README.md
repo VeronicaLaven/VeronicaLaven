@@ -110,7 +110,7 @@
 
 ### :dart: Productivity Projects:
 
-   #### Python, TKinter, Pomodoro Techinque Timer
+   #### Python, TKinter Pomodoro Techinque Timer
    * [Python Timer using TKinter GUI](https://github.com/VeronicaLaven/python_timer.git)
 
 
