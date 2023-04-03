@@ -5,25 +5,27 @@
 
 ### Languages and Packages:
 <p float="left">
-  <img src= "https://img.shields.io/badge/-C-orange" />
-  <img src= "https://img.shields.io/badge/-Python-brightgreen" />
-  <img src= "https://img.shields.io/badge/-R-yellow" />
-  <img src= "https://img.shields.io/badge/-PostgreSQL-blue" />
-  <img src= "https://img.shields.io/badge/-MySQL-purple" />
-  <img src= "https://img.shields.io/badge/-SQLite-lightgrey" />
-  <img src= "https://img.shields.io/badge/-Selenium-darkblue" />
+  
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
   <img src= "https://img.shields.io/badge/-BeautifulSoup-maroon" />
-  <img src= "https://img.shields.io/badge/-Pandas-red" />
-  <img src= "https://img.shields.io/badge/-NumPy-brightgreen" />
-  <img src= "https://img.shields.io/badge/-Matplotlib-magenta" />
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
   <img src= "https://img.shields.io/badge/-Seaborn-teal" />
-  <img src= "https://img.shields.io/badge/-Plotly-orange" />
   <img src= "https://img.shields.io/badge/-GGPlot2-brightgreen" />
   <img src= "https://img.shields.io/badge/-Tableau-blue" />
-  <img src= "https://img.shields.io/badge/-Power%20BI-yellow" />
+  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
   <img src= "https://img.shields.io/badge/-Power%20Query-green" />
   
-  <!--
+  <!-- =====
   <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="40" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" />
   <img src="https://bit.ly/3SwfhYy" width="30" />
@@ -34,29 +36,37 @@
   <img src="https://ggplot2.tidyverse.org/logo.png" width="30" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="30" /> 
   <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" width="60" />
-  
+  ========
   -->
   
 </p>
 
 ### Tools:
 <p float="left">
-  <img src= "https://img.shields.io/badge/CLI-UNIX-black" />
-  <img src= "https://img.shields.io/badge/-Visual%20Studio%20Code-blue" />
-  <img src= "https://img.shields.io/badge/-Jupyter%20Notebook-blueviolet" />
-  <img src= "https://img.shields.io/badge/-Anaconda-brightgreen" />
-  <img src= "https://img.shields.io/badge/-RStudio-blue" />
-  <img src= "https://img.shields.io/badge/-Git-red" />
-  <img src= "https://img.shields.io/badge/-GitHub-black" />
+
+<img src= "https://img.shields.io/badge/CLI-UNIX-black" /> ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
-  <!--
+  <!--    ========
   
   <img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" width="30" />
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="30" /> 
   <img src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png" width="30" />
   <img src="https://anaconda.org/static/img/anaconda-symbol.svg" width="30" />
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" /> 
-
+=============
 -->
 </p>
 
@@ -86,16 +96,16 @@
    #### Python, Selenium, TKinter
    * [Webscraping Online Radio Station Media Players to Build Custom Media Player App](https://github.com/VeronicaLaven/custom_music_player.git)
     
-### 🎓 Education:
+### 🎓 Education: <img src="https://1000logos.net/wp-content/uploads/2021/07/UTEP-Miners-logo.png" width="100" />   
 * BS Electrical Engineering
 
-  #### 📜 Professional Certifications
+  #### 📜 Professional Certifications - ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
   
   *  Andrew Ng Machine Learning Specialization offered by DeepLearning.AI and Stanford University - Coursera – in progress
 
   *  Google Data Analytics Professional Certificate - Coursera – 2021
   
-  #### 📜 Udemy Course Certifications
+  #### 📜 Udemy Course Certifications - ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
   
   *  Udemy Git & GitHub Bootcamp – In Progress
 
