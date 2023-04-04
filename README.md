@@ -95,7 +95,7 @@
    #### Python, Selenium, TKinter
    * [Webscraping Online Radio Station Media Players to Build Custom Media Player App](https://github.com/VeronicaLaven/custom_music_player.git)
     
-### 🎓 Education: <img src="https://1000logos.net/wp-content/uploads/2021/07/UTEP-Miners-logo.png" width="100" />   
+### 🎓 Education:    
 * BS Electrical Engineering
 
   #### 📜 Professional Certifications - ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
