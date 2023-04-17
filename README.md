@@ -126,7 +126,7 @@
 
 
 ### <img src= "https://download.logo.wine/logo/Raspberry_Pi/Raspberry_Pi-Logo.wine.png" width="60"/> Raspberry Pi Projects: 
-   #### Automate holiday decor props with Python and Raspberry Pi
+   #### Automation with Python and Raspberry Pi
 
 <hr style="border: 1px solid gray">
 
