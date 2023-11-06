@@ -104,7 +104,7 @@
 
   * #### 📜 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Professional Certifications
   
-    *  Andrew Ng Machine Learning Specialization offered by DeepLearning.AI and Stanford University - Coursera – in progress
+    *  Microsoft Power BI Data Analyst Professional Certificate - Coursera – in progress
 
     *  Google Data Analytics Professional Certificate - Coursera – 2021
   
