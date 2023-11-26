@@ -78,11 +78,11 @@
 ###  📈 Exploratory Data Analysis (EDA) Projects:
 
    #### Python, Pandas, Matplotlib
-   <p> * [Seattle Police Department Crime Exploratory Data Analysis (EDA)](https://www.kaggle.com/code/veronicalaven/seattle-pd-crime-eda)</p>
-   <p> * See also IMDb EDA below under Webscraping Projects</p>
+   <p> * [Seattle Police Department Crime Exploratory Data Analysis (EDA)](https://www.kaggle.com/code/veronicalaven/seattle-pd-crime-eda)
+   <p> * See also IMDb EDA below under Webscraping Projects
 
    #### R, dplyr, ggplot
-    * [BellaBeat Fitness Exploratory Data Analysis (EDA) - Capstone Project - Google Data Analytics Professional Certificate by Coursera](https://www.kaggle.com/code/veronicalaven/capstone-project-2021-bellabeat-case-study)</p>
+    * [BellaBeat Fitness Exploratory Data Analysis (EDA) - Capstone Project - Google Data Analytics Professional Certificate by Coursera](https://www.kaggle.com/code/veronicalaven/capstone-project-2021-bellabeat-case-study)
 
 ### ⚙️ API Projects:
    #### Python, TKinter, OpenWeatherMap API
@@ -93,24 +93,24 @@
 
 ### 🌎 Webscraping Projects:
    #### Python, BeautifulSoup, Pandas, Matplotlib
-   * [Webscraping IMDb 1000 Greatest Movies and Exploratory Data Analysis (EDA)](https://github.com/VeronicaLaven/IMDb_webscrape_plus_EDA_python.git)
+    * [Webscraping IMDb 1000 Greatest Movies and Exploratory Data Analysis (EDA)](https://github.com/VeronicaLaven/IMDb_webscrape_plus_EDA_python.git)
    
    #### Python, Selenium, TKinter
-   * [Webscraping Online Radio Station Media Players to Build Custom Media Player App](https://github.com/VeronicaLaven/custom_music_player.git)
+    * [Webscraping Online Radio Station Media Players to Build Custom Media Player App](https://github.com/VeronicaLaven/custom_music_player.git)
     
 ### :dart: Productivity Projects:
 
    #### Python, TKinter Pomodoro Techinque Timer
-   * [Python Timer using TKinter GUI](https://github.com/VeronicaLaven/python_timer.git)
+    * [Python Timer using TKinter GUI](https://github.com/VeronicaLaven/python_timer.git)
 
 
 ### <img src= "https://download.logo.wine/logo/Raspberry_Pi/Raspberry_Pi-Logo.wine.png" width="60"/> Raspberry Pi Projects: 
-   #### Automation with Python and Raspberry Pi
+     #### Automation with Python and Raspberry Pi
 
 <hr style="border: 1px solid gray">
 
 ### <img src= "https://1000logos.net/wp-content/uploads/2021/07/UTEP-Miners-logo.png" width="60"/> Education: 
-  * BS Electrical Engineering
+    * BS Electrical Engineering
 
 ### 🎓 Certifications: 
 
