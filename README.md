@@ -78,19 +78,19 @@
 ###  📈 Exploratory Data Analysis (EDA) Projects:
 
    #### Python, Pandas, Matplotlib
-   * [Seattle Police Department Crime Exploratory Data Analysis (EDA)](https://www.kaggle.com/code/veronicalaven/seattle-pd-crime-eda)
-   * See also IMDb EDA below under Webscraping Projects
+   &nbsp * [Seattle Police Department Crime Exploratory Data Analysis (EDA)](https://www.kaggle.com/code/veronicalaven/seattle-pd-crime-eda)
+   &nbsp * See also IMDb EDA below under Webscraping Projects
 
    #### R, dplyr, ggplot
-   * [BellaBeat Fitness Exploratory Data Analysis (EDA) - Capstone Project - Google Data Analytics Professional Certificate by Coursera](https://www.kaggle.com/code/veronicalaven/capstone-project-2021-bellabeat-case-study)
+   &nbsp * [BellaBeat Fitness Exploratory Data Analysis (EDA) - Capstone Project - Google Data Analytics Professional Certificate by Coursera](https://www.kaggle.com/code/veronicalaven/capstone-project-2021-bellabeat-case-study)
 
 ### ⚙️ API Projects:
 
    #### Python, TKinter, OpenWeatherMap API
-   * [Python Weather App using TKinter GUI and Open Weather Map API](https://github.com/VeronicaLaven/weather_tk_gui_app.git)
+   &nbsp * [Python Weather App using TKinter GUI and Open Weather Map API](https://github.com/VeronicaLaven/weather_tk_gui_app.git)
 
    #### Python, TKinter, OpenAI API
-   * [Python OpenAI ChatGPT3.5 ChatBot using TKinter GUI and GPT-3.5 model engine](https://github.com/VeronicaLaven/python_chatgpt3_tkinter_gui.git)
+   &nbsp * [Python OpenAI ChatGPT3.5 ChatBot using TKinter GUI and GPT-3.5 model engine](https://github.com/VeronicaLaven/python_chatgpt3_tkinter_gui.git)
 
 ### 🌎 Webscraping Projects:
    #### Python, BeautifulSoup, Pandas, Matplotlib
