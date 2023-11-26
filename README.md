@@ -78,60 +78,52 @@
 ###  📈 Exploratory Data Analysis (EDA) Projects:
 
    #### Python, Pandas, Matplotlib
-    * [Seattle Police Department Crime Exploratory Data Analysis (EDA)](https://www.kaggle.com/code/veronicalaven/seattle-pd-crime-eda)
-    * See also IMDb EDA below under Webscraping Projects
+  * [Seattle Police Department Crime Exploratory Data Analysis (EDA)](https://www.kaggle.com/code/veronicalaven/seattle-pd-crime-eda)
+  * See also IMDb EDA below under Webscraping Projects
 
    #### R, dplyr, ggplot
-    * [BellaBeat Fitness Exploratory Data Analysis (EDA) - Capstone Project - Google Data Analytics Professional Certificate by Coursera](https://www.kaggle.com/code/veronicalaven/capstone-project-2021-bellabeat-case-study)
+  * [BellaBeat Fitness Exploratory Data Analysis (EDA) - Capstone Project - Google Data Analytics Professional Certificate by Coursera](https://www.kaggle.com/code/veronicalaven/capstone-project-2021-bellabeat-case-study)
 
 ### ⚙️ API Projects:
    #### Python, TKinter, OpenWeatherMap API
-    * [Python Weather App using TKinter GUI and Open Weather Map API](https://github.com/VeronicaLaven/weather_tk_gui_app.git)
+   * [Python Weather App using TKinter GUI and Open Weather Map API](https://github.com/VeronicaLaven/weather_tk_gui_app.git)
 
    #### Python, TKinter, OpenAI API
-    * [Python OpenAI ChatGPT3.5 ChatBot using TKinter GUI and GPT-3.5 model engine](https://github.com/VeronicaLaven/python_chatgpt3_tkinter_gui.git)
+   * [Python OpenAI ChatGPT3.5 ChatBot using TKinter GUI and GPT-3.5 model engine](https://github.com/VeronicaLaven/python_chatgpt3_tkinter_gui.git)
 
 ### 🌎 Webscraping Projects:
    #### Python, BeautifulSoup, Pandas, Matplotlib
-    * [Webscraping IMDb 1000 Greatest Movies and Exploratory Data Analysis (EDA)](https://github.com/VeronicaLaven/IMDb_webscrape_plus_EDA_python.git)
+   * [Webscraping IMDb 1000 Greatest Movies and Exploratory Data Analysis (EDA)](https://github.com/VeronicaLaven/IMDb_webscrape_plus_EDA_python.git)
    
    #### Python, Selenium, TKinter
-    * [Webscraping Online Radio Station Media Players to Build Custom Media Player App](https://github.com/VeronicaLaven/custom_music_player.git)
+   * [Webscraping Online Radio Station Media Players to Build Custom Media Player App](https://github.com/VeronicaLaven/custom_music_player.git)
     
 ### :dart: Productivity Projects:
 
    #### Python, TKinter Pomodoro Techinque Timer
-    * [Python Timer using TKinter GUI](https://github.com/VeronicaLaven/python_timer.git)
+   * [Python Timer using TKinter GUI](https://github.com/VeronicaLaven/python_timer.git)
 
 
 ### <img src= "https://download.logo.wine/logo/Raspberry_Pi/Raspberry_Pi-Logo.wine.png" width="60"/> Raspberry Pi Projects: 
-     #### Automation with Python and Raspberry Pi
+  #### Automation with Python and Raspberry Pi
 
 <hr style="border: 1px solid gray">
 
-### <img src= "https://1000logos.net/wp-content/uploads/2021/07/UTEP-Miners-logo.png" width="60"/> Education: 
-    * BS Electrical Engineering
+## Education: 
+#### <img src= "https://1000logos.net/wp-content/uploads/2021/07/UTEP-Miners-logo.png" width="60"/> BS Electrical Engineering
 
 ### 🎓 Certifications: 
 
   * #### 📜 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Professional Certifications
-  
     *  Microsoft Power BI Data Analyst Professional Certificate - Coursera – in progress
-
     *  Google Data Analytics Professional Certificate - Coursera – 2021
   
   * #### 📜 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) Course Certifications
-  
     *  Udemy Git & GitHub Bootcamp – In Progress
-
     *  Udemy The Complete SQL Bootcamp: Go from Zero to Hero – 2023
-
     *  Udemy R Programming A-Z™: R for Data Science with Real Exercises - 2022
-
     *  Udemy 2022 Complete Python Bootcamp: From Zero to Hero in Python - 2022
-  
     *  Udemy Data Analysis using Excel - 2021
-
 
 #
 
