@@ -73,6 +73,8 @@
 
 <hr style="border: 1px solid gray">
 
+## Projects: 
+
 ###  📈 Exploratory Data Analysis (EDA) Projects:
 
    #### Python, Pandas, Matplotlib
@@ -97,6 +99,17 @@
    #### Python, Selenium, TKinter
    * [Webscraping Online Radio Station Media Players to Build Custom Media Player App](https://github.com/VeronicaLaven/custom_music_player.git)
     
+### :dart: Productivity Projects:
+
+   #### Python, TKinter Pomodoro Techinque Timer
+   * [Python Timer using TKinter GUI](https://github.com/VeronicaLaven/python_timer.git)
+
+
+### <img src= "https://download.logo.wine/logo/Raspberry_Pi/Raspberry_Pi-Logo.wine.png" width="60"/> Raspberry Pi Projects: 
+   #### Automation with Python and Raspberry Pi
+
+<hr style="border: 1px solid gray">
+
 ### 🎓 Education:    
 * BS Electrical Engineering
 
@@ -119,19 +132,6 @@
     *  Udemy 2022 Complete Python Bootcamp: From Zero to Hero in Python - 2022
   
     *  Udemy Data Analysis using Excel - 2021
-
-
-
-### :dart: Productivity Projects:
-
-   #### Python, TKinter Pomodoro Techinque Timer
-   * [Python Timer using TKinter GUI](https://github.com/VeronicaLaven/python_timer.git)
-
-
-### <img src= "https://download.logo.wine/logo/Raspberry_Pi/Raspberry_Pi-Logo.wine.png" width="60"/> Raspberry Pi Projects: 
-   #### Automation with Python and Raspberry Pi
-
-<hr style="border: 1px solid gray">
 
 
 #
