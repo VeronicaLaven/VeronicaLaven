@@ -110,6 +110,7 @@
 <hr style="border: 1px solid gray">
 
 ## Education: 
+
 #### <img src= "https://github.com/VeronicaLaven/VeronicaLaven/blob/main/grad_cap.png" width="40"/> BS Electrical Engineering
 
 <hr style="border: 1px solid gray">
