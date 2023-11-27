@@ -110,7 +110,9 @@
 <hr style="border: 1px solid gray">
 
 ## Education: 
-#### <img src= "https://www.123rf.com/free-photo_206092530_graduation-cap-isolated-on-white-background-vector-illustration-eps-10.html" width="60"/> BS Electrical Engineering
+#### <img src= "https://github.com/VeronicaLaven/VeronicaLaven/blob/main/grad_cap.png" width="40"/> BS Electrical Engineering
+
+<hr style="border: 1px solid gray">
 
 ### 📜 Certifications: 
 
