@@ -110,15 +110,15 @@
 <hr style="border: 1px solid gray">
 
 ## Education: 
-#### <img src= "https://1000logos.net/wp-content/uploads/2021/07/UTEP-Miners-logo.png" width="60"/> BS Electrical Engineering
+#### <img src= "https://www.123rf.com/free-photo_206092530_graduation-cap-isolated-on-white-background-vector-illustration-eps-10.html" width="60"/> BS Electrical Engineering
 
-### 🎓 Certifications: 
+### 📜 Certifications: 
 
-  * #### 📜 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Professional Certifications
+  * ####  ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Professional Certifications
     *  Microsoft Power BI Data Analyst Professional Certificate - Coursera – in progress
     *  Google Data Analytics Professional Certificate - Coursera – 2021
   
-  * #### 📜 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) Course Certifications
+  * ####  ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) Course Certifications
     *  Udemy Git & GitHub Bootcamp – In Progress
     *  Udemy The Complete SQL Bootcamp: Go from Zero to Hero – 2023
     *  Udemy R Programming A-Z™: R for Data Science with Real Exercises - 2022
