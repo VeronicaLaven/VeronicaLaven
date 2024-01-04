@@ -85,6 +85,9 @@
   * [BellaBeat Fitness Exploratory Data Analysis (EDA) - Capstone Project - Google Data Analytics Professional Certificate by Coursera](https://www.kaggle.com/code/veronicalaven/capstone-project-2021-bellabeat-case-study)
 
 ### ⚙️ API Projects:
+   #### Python, Plotly, Open Notify API
+   * [Python Jupyter Notebook International Space Station Tracker using Open Notify API](https://github.com/VeronicaLaven/iss_tracker.git)
+
    #### Python, TKinter, OpenWeatherMap API
    * [Python Weather App using TKinter GUI and Open Weather Map API](https://github.com/VeronicaLaven/weather_tk_gui_app.git)
 
