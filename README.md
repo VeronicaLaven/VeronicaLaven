@@ -128,11 +128,11 @@
     *  Google Data Analytics Professional Certificate - Coursera – 2021
   
   * ####  ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) Course Certifications
-    *  Udemy Git & GitHub Bootcamp – 2024
-    *  Udemy The Complete SQL Bootcamp: Go from Zero to Hero – 2023
-    *  Udemy R Programming A-Z™: R for Data Science with Real Exercises - 2022
-    *  Udemy 2022 Complete Python Bootcamp: From Zero to Hero in Python - 2022
-    *  Udemy Data Analysis using Excel - 2021
+    *  Git & GitHub Bootcamp – 2024
+    *  The Complete SQL Bootcamp: Go from Zero to Hero – 2023
+    *  R Programming A-Z™: R for Data Science with Real Exercises - 2022
+    *  2022 Complete Python Bootcamp: From Zero to Hero in Python - 2022
+    *  Data Analysis using Excel - 2021
 
 #
 
