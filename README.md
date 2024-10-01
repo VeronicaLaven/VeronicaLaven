@@ -124,8 +124,8 @@
 ### 📜 Certifications: 
 
   * ####  ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) Professional Certifications
-    *  Microsoft Power BI Data Analyst Professional Certificate - Coursera – in progress
-    *  Google Data Analytics Professional Certificate - Coursera – 2021
+    *  Microsoft Power BI Data Analyst Professional Certificate - in progress
+    *  Google Data Analytics Professional Certificate - 2021
   
   * ####  ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) Course Certifications
     *  Git & GitHub Bootcamp – 2024
